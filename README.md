@@ -9,3 +9,8 @@
 - [X] CSS Module
 - [X] Componente Header 
 - [X] Componente Sidebar
+- [X] Instalar Phosphor icon 
+- [X] Componente Post
+- [X] Componente Formulário e comentários  
+- [X] Estilizações do comentário
+

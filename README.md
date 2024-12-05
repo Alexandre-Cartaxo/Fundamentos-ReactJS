@@ -13,4 +13,4 @@
 - [X] Componente Post
 - [X] Componente Formulário e comentários  
 - [X] Estilizações do comentário
-
+- [X] Componente Avatar

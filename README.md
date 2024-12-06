@@ -14,3 +14,12 @@
 - [X] Componente Formulário e comentários  
 - [X] Estilizações do comentário
 - [X] Componente Avatar
+
+# Motores do React
+
+- [X] Iterando no jsx
+- [X] Propriedades do Post
+- [X] Estado (useState)
+- [X] Iterando comentário (Programação declarativa)
+- [ ] Entendendo a key 
+- [ ] Comunicação entre componentes

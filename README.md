@@ -21,5 +21,10 @@
 - [X] Propriedades do Post
 - [X] Estado (useState)
 - [X] Iterando comentário (Programação declarativa)
-- [ ] Entendendo a key 
-- [ ] Comunicação entre componentes
+- [X] Entendendo a key 
+- [X] Comunicação entre componentes 
+- [X] Removendo comentários
+- [X] Validando formulário
+- [ ] Realizando like nos comentários
+- [ ] Entendendo clousure no react 
+

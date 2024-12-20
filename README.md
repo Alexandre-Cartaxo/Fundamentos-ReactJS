@@ -25,6 +25,8 @@
 - [X] Comunicação entre componentes 
 - [X] Removendo comentários
 - [X] Validando formulário
-- [ ] Realizando like nos comentários
-- [ ] Entendendo clousure no react 
+- [X] Realizando like nos comentários
+- [X] Entendendo clousure no react 
+
+## Projeto Encerrado 
 
